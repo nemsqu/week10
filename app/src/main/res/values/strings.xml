@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">week10</string>
+    <string name="refresh">Refresh</string>
+    <string name="execute">Execute</string>
+    <string name="initialize">Initialize</string>
+    <string name="previous"><![CDATA[<]]></string>
+    <string name="next"><![CDATA[>]]></string>
+</resources>
